@@ -18,7 +18,7 @@ const generateQrCode =()=>{
   )
 }
 
-
+    const handleQrCode =
 
 
 
