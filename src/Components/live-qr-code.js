@@ -1,11 +1,10 @@
 import React from 'react'
+import QRCode from 'react-qr-code'
 
-const LiveQrCode = () => {
+const LiveQrCode = ({value}) => {
   return (
-    <div>
-      
-    </div>
+    <QRCode value={value}/>
   )
 }
 
-export default live-Lr-cQC
+export default LiveQrCode 
