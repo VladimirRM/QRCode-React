@@ -1,9 +1,9 @@
 
 import React from 'react'
 
-const BasicInput = () => {
+const BasicInput = ({value,type,onChange,...rest}) => {
   return (
-    <div>basic-input</div>
+    <div></div>
   )
 }
 
